@@ -8,14 +8,18 @@ More info will be provided during the development process.
 
 ## How to play the game?
 
-You can visit: (link to the published app will be placed here)
+You can visit this link: https://aweb-rock-paper-scissors.netlify.app/
 
 or clone this repository and play on your machine. <br /><br />
 To run the project locally, type those commands in the terminal at the projec root directory:
-- npm install
-- npm run dev
+- `npm install`
+- `npm run dev`
 
 ### Changelog
+
+### v. 0.1.1:
+- Game hosted on Netlify
+- Link for hosted game provided in the Readme
 
 ### v. 0.1.0:
 - Project initialized
